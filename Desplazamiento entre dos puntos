@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T17:47:50.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="XmucECF3KGp__-ItbpIw" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-27T17:51:49.602Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="P7bnl7wT6kTC9esf-C7R" version="20.0.3" type="github">
   <diagram id="Bb4e23FucB0MdJyJGkvT" name="Page-1">
-    <mxGraphModel dx="1583" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,10 +51,16 @@
         <mxCell id="ncpOWryx8q9pS0uk0dS2-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ncpOWryx8q9pS0uk0dS2-17" target="ncpOWryx8q9pS0uk0dS2-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ncpOWryx8q9pS0uk0dS2-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ncpOWryx8q9pS0uk0dS2-17" target="ncpOWryx8q9pS0uk0dS2-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ncpOWryx8q9pS0uk0dS2-17" value="tengo carro" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ncpOWryx8q9pS0uk0dS2-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ncpOWryx8q9pS0uk0dS2-23" target="ncpOWryx8q9pS0uk0dS2-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ncpOWryx8q9pS0uk0dS2-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ncpOWryx8q9pS0uk0dS2-23" target="ncpOWryx8q9pS0uk0dS2-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ncpOWryx8q9pS0uk0dS2-23" value="tengo moto" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -86,6 +92,36 @@
         </mxCell>
         <mxCell id="ncpOWryx8q9pS0uk0dS2-38" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="667" y="290" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ncpOWryx8q9pS0uk0dS2-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ncpOWryx8q9pS0uk0dS2-42" target="ncpOWryx8q9pS0uk0dS2-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ncpOWryx8q9pS0uk0dS2-42" value="cojer las llaves" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ncpOWryx8q9pS0uk0dS2-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ncpOWryx8q9pS0uk0dS2-42" target="ncpOWryx8q9pS0uk0dS2-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ncpOWryx8q9pS0uk0dS2-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ncpOWryx8q9pS0uk0dS2-46" target="ncpOWryx8q9pS0uk0dS2-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ncpOWryx8q9pS0uk0dS2-46" value="subirme al vehiculo" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ncpOWryx8q9pS0uk0dS2-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ncpOWryx8q9pS0uk0dS2-48" target="ncpOWryx8q9pS0uk0dS2-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ncpOWryx8q9pS0uk0dS2-48" value="meter la llave&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ncpOWryx8q9pS0uk0dS2-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ncpOWryx8q9pS0uk0dS2-50" target="ncpOWryx8q9pS0uk0dS2-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ncpOWryx8q9pS0uk0dS2-50" value="pisar el freno por seguridad" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ncpOWryx8q9pS0uk0dS2-52" value="girar la llave" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
