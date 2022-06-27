@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T22:38:11.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="HrIkVOMZxY22xtIdryDy" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-27T22:42:55.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="Mv0d4DBpGjDGbQwwms54" version="20.0.3" type="github">
   <diagram id="Bb4e23FucB0MdJyJGkvT" name="Page-1">
-    <mxGraphModel dx="665" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="950" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,7 +120,7 @@
         <mxCell id="ncpOWryx8q9pS0uk0dS2-50" value="pisar el freno por seguridad" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="235" y="550" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TT-pXIerm-H7xEz98FhC-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ncpOWryx8q9pS0uk0dS2-52" target="TT-pXIerm-H7xEz98FhC-1">
+        <mxCell id="TT-pXIerm-H7xEz98FhC-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ncpOWryx8q9pS0uk0dS2-52" target="TT-pXIerm-H7xEz98FhC-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ncpOWryx8q9pS0uk0dS2-52" value="girar la llave" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -130,28 +130,48 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TT-pXIerm-H7xEz98FhC-1" value="desbloquear el celular" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="660" width="120" height="20" as="geometry" />
+          <mxGeometry x="235" y="780" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TT-pXIerm-H7xEz98FhC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TT-pXIerm-H7xEz98FhC-3" target="TT-pXIerm-H7xEz98FhC-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TT-pXIerm-H7xEz98FhC-3" value="abrir la app donde tenia la dirección del supermercado" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="710" width="120" height="50" as="geometry" />
+          <mxGeometry x="235" y="830" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TT-pXIerm-H7xEz98FhC-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TT-pXIerm-H7xEz98FhC-5" target="TT-pXIerm-H7xEz98FhC-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TT-pXIerm-H7xEz98FhC-5" value="encender el modo navegación" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="790" width="120" height="30" as="geometry" />
+          <mxGeometry x="235" y="910" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TT-pXIerm-H7xEz98FhC-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TT-pXIerm-H7xEz98FhC-7" target="TT-pXIerm-H7xEz98FhC-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TT-pXIerm-H7xEz98FhC-7" value="pisar el acelerador" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="850" width="120" height="20" as="geometry" />
+        <mxCell id="TT-pXIerm-H7xEz98FhC-7" value="acelerador" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="970" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TT-pXIerm-H7xEz98FhC-12" value="girar el manubrio para girar el vehiculo en la direccion indicada por la app" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="900" width="120" height="70" as="geometry" />
+        <mxCell id="TT-pXIerm-H7xEz98FhC-12" value="girar el manubrio para girar el vehiculo en la direccion que me vaya indicando la app" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TT-pXIerm-H7xEz98FhC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="TT-pXIerm-H7xEz98FhC-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="720" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TT-pXIerm-H7xEz98FhC-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TT-pXIerm-H7xEz98FhC-14" target="TT-pXIerm-H7xEz98FhC-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TT-pXIerm-H7xEz98FhC-14" value="enciende el vehiculo" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="243.75" y="650" width="102.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TT-pXIerm-H7xEz98FhC-17" value="si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="730" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TT-pXIerm-H7xEz98FhC-18" value="revisar&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TT-pXIerm-H7xEz98FhC-20" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="203.75" y="670" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
