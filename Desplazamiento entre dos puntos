@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T14:47:48.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="WRAFD0jpYJaukSk_sWff" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T15:13:37.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="eMlECrIgG0RNSoT98QRJ" version="20.0.3" type="github">
   <diagram id="Bb4e23FucB0MdJyJGkvT" name="Page-1">
-    <mxGraphModel dx="2782" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3849" dy="1393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,6 +74,9 @@
         </mxCell>
         <mxCell id="ncpOWryx8q9pS0uk0dS2-25" value="tengo bicicleta" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="55" y="280" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9VyDL9S_zwfMS6QyGqp0-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ncpOWryx8q9pS0uk0dS2-27" target="9VyDL9S_zwfMS6QyGqp0-67">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ncpOWryx8q9pS0uk0dS2-27" value="usar transporte publico" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="332" y="290" width="120" height="60" as="geometry" />
@@ -482,6 +485,101 @@
         </mxCell>
         <mxCell id="9VyDL9S_zwfMS6QyGqp0-64" value="bajarse del vehiculo" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="1120" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9VyDL9S_zwfMS6QyGqp0-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9VyDL9S_zwfMS6QyGqp0-67" target="9VyDL9S_zwfMS6QyGqp0-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9VyDL9S_zwfMS6QyGqp0-67" value="salir de la casa&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="370" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9VyDL9S_zwfMS6QyGqp0-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9VyDL9S_zwfMS6QyGqp0-69" target="9VyDL9S_zwfMS6QyGqp0-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9VyDL9S_zwfMS6QyGqp0-69" value="ir a la parada de buses mas cercana" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="415" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="9VyDL9S_zwfMS6QyGqp0-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9VyDL9S_zwfMS6QyGqp0-71" target="9VyDL9S_zwfMS6QyGqp0-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9VyDL9S_zwfMS6QyGqp0-71" value="esperar al bus" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="470" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9VyDL9S_zwfMS6QyGqp0-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9VyDL9S_zwfMS6QyGqp0-73" target="9VyDL9S_zwfMS6QyGqp0-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9VyDL9S_zwfMS6QyGqp0-73" value="ver el cartel que tienen en la ventana&amp;nbsp;que dice las direcciones a donde va el bus&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323" y="510" width="138" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9VyDL9S_zwfMS6QyGqp0-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9VyDL9S_zwfMS6QyGqp0-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="539.9979855632032" y="664.4980694980695" as="sourcePoint" />
+            <mxPoint x="452" y="482" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="660" />
+              <mxPoint x="570" y="660" />
+              <mxPoint x="570" y="482" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9VyDL9S_zwfMS6QyGqp0-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9VyDL9S_zwfMS6QyGqp0-75" target="9VyDL9S_zwfMS6QyGqp0-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9VyDL9S_zwfMS6QyGqp0-75" value="el cartel tiene la direccion que necesitamos" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="605" width="120" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="9VyDL9S_zwfMS6QyGqp0-78" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="640" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9VyDL9S_zwfMS6QyGqp0-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9VyDL9S_zwfMS6QyGqp0-79" target="9VyDL9S_zwfMS6QyGqp0-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9VyDL9S_zwfMS6QyGqp0-79" value="subirse al bus" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="745" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9VyDL9S_zwfMS6QyGqp0-81" value="si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="715" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9VyDL9S_zwfMS6QyGqp0-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9VyDL9S_zwfMS6QyGqp0-82" target="9VyDL9S_zwfMS6QyGqp0-86">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="810" />
+              <mxPoint x="412" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9VyDL9S_zwfMS6QyGqp0-82" value="pagarle al conductor" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="785" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9VyDL9S_zwfMS6QyGqp0-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9VyDL9S_zwfMS6QyGqp0-86" target="9VyDL9S_zwfMS6QyGqp0-88">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="352" y="870" />
+              <mxPoint x="352" y="917" />
+              <mxPoint x="350" y="917" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9VyDL9S_zwfMS6QyGqp0-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9VyDL9S_zwfMS6QyGqp0-86" target="9VyDL9S_zwfMS6QyGqp0-91">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9VyDL9S_zwfMS6QyGqp0-86" value="hay silla disponible" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372" y="830" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9VyDL9S_zwfMS6QyGqp0-88" value="quedarse de pie" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="915" width="120" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9VyDL9S_zwfMS6QyGqp0-90" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="323" y="875" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9VyDL9S_zwfMS6QyGqp0-91" value="sentarse en la silla" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="915" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9VyDL9S_zwfMS6QyGqp0-93" value="si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="875" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
